@@ -1,2 +1,2 @@
 # bulmaNavbar
-This is a repository for a simple bulma repository
+This is a repository for a simple bulma navbar
